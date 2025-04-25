@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="BancoDados_Irrigacao" id="6C1E110F-8E08-BD7A-7EF1-76120C5E9E1B" version="3.5">
+<createdBy>Rodrigo</createdBy>
+<createdTime>2025-04-25 13:46:31 UTC</createdTime>
+<ownerDesignName>BancoDados_Irrigacao</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6C1E110F-8E08-BD7A-7EF1-76120C5E9E1B</designId>
+</OSDM_Design>
